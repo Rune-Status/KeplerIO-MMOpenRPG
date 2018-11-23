@@ -1,0 +1,14 @@
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\obj\Debug\netcoreapp2.1\MMOpenRPG.ExampleConsumer.csprojAssemblyReference.cache
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\obj\Debug\netcoreapp2.1\MMOpenRPG.ExampleConsumer.csproj.CoreCompileInputs.cache
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\obj\Debug\netcoreapp2.1\MMOpenRPG.ExampleConsumer.AssemblyInfoInputs.cache
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\obj\Debug\netcoreapp2.1\MMOpenRPG.ExampleConsumer.AssemblyInfo.cs
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\bin\Debug\netcoreapp2.1\MMOpenRPG.ExampleConsumer.deps.json
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\bin\Debug\netcoreapp2.1\MMOpenRPG.ExampleConsumer.runtimeconfig.json
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\bin\Debug\netcoreapp2.1\MMOpenRPG.ExampleConsumer.runtimeconfig.dev.json
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\bin\Debug\netcoreapp2.1\MMOpenRPG.ExampleConsumer.dll
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\bin\Debug\netcoreapp2.1\MMOpenRPG.ExampleConsumer.pdb
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\bin\Debug\netcoreapp2.1\MMOpenRPG.Framework.dll
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\bin\Debug\netcoreapp2.1\MMOpenRPG.Framework.pdb
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\obj\Debug\netcoreapp2.1\MMOpenRPG.ExampleConsumer.csproj.CopyComplete
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\obj\Debug\netcoreapp2.1\MMOpenRPG.ExampleConsumer.dll
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.ExampleConsumer\obj\Debug\netcoreapp2.1\MMOpenRPG.ExampleConsumer.pdb

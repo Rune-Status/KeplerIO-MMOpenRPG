@@ -1,0 +1,9 @@
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.Framework\bin\Debug\netstandard2.0\MMOpenRPG.Framework.deps.json
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.Framework\bin\Debug\netstandard2.0\MMOpenRPG.Framework.dll
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.Framework\bin\Debug\netstandard2.0\MMOpenRPG.Framework.pdb
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.Framework\obj\Debug\netstandard2.0\MMOpenRPG.Framework.csprojAssemblyReference.cache
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.Framework\obj\Debug\netstandard2.0\MMOpenRPG.Framework.csproj.CoreCompileInputs.cache
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.Framework\obj\Debug\netstandard2.0\MMOpenRPG.Framework.AssemblyInfoInputs.cache
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.Framework\obj\Debug\netstandard2.0\MMOpenRPG.Framework.AssemblyInfo.cs
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.Framework\obj\Debug\netstandard2.0\MMOpenRPG.Framework.dll
+C:\Users\payton.juneau\Documents\Github\MMOpenRPG\MMOpenRPG.Framework\obj\Debug\netstandard2.0\MMOpenRPG.Framework.pdb
